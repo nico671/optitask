@@ -8,9 +8,9 @@ We understand how overwhelming academic life can be. That's why OptiTask is here
 
 ## Screenshots
 
-![](screenshots/simulator_screenshot_46D5CB45-4A80-48DD-87C6-97C09736A949.png =250x250)
-![](screenshots/simulator_screenshot_035B362E-A028-4076-B759-F6AF7FD0D0C7.png =250x250)
-![](screenshots/image.png =250x250)
+![alt text](screenshots/simulator_screenshot_46D5CB45-4A80-48DD-87C6-97C09736A949.png | width = 250)
+![alt text](screenshots/simulator_screenshot_035B362E-A028-4076-B759-F6AF7FD0D0C7.png | width = 250)
+![](screenshots/image.png | width = 250)
 
 ## Features
 
